@@ -1,0 +1,866 @@
+{
+  "name": "NTU",
+  "head": {
+    "name": "Angrew",
+    "surname": "Smith",
+    "patronymic": "S",
+    "sex": "MALE"
+  },
+  "faculties": [
+    {
+      "boss": {
+        "name": "Angrew",
+        "surname": "Smith",
+        "patronymic": "S",
+        "sex": "MALE"
+      },
+      "maxDepartmentsCount": 3,
+      "departments": [
+        {
+          "maxGroupsCount": 0,
+          "groups": [
+            {
+              "maxStudentsCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentsCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentsCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentsCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "maxGroupsCount": 0,
+          "groups": [
+            {
+              "maxStudentsCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentsCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentsCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentsCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boss": {
+        "name": "Angrew",
+        "surname": "Smith",
+        "patronymic": "S",
+        "sex": "MALE"
+      },
+      "maxDepartmentsCount": 3,
+      "departments": [
+        {
+          "maxGroupsCount": 0,
+          "groups": [
+            {
+              "maxStudentsCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentsCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentsCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentsCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "maxGroupsCount": 0,
+          "groups": [
+            {
+              "maxStudentsCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentsCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentsCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentsCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boss": {
+        "name": "Angrew",
+        "surname": "Smith",
+        "patronymic": "S",
+        "sex": "MALE"
+      },
+      "maxDepartmentsCount": 3,
+      "departments": [
+        {
+          "maxGroupsCount": 0,
+          "groups": [
+            {
+              "maxStudentsCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentsCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentsCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentsCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "maxGroupsCount": 0,
+          "groups": [
+            {
+              "maxStudentsCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentsCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentsCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "maxStudentsCount": 8,
+              "students": [
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                },
+                {
+                  "recordBookNumber": 12345678,
+                  "name": "Angrew",
+                  "surname": "Smith",
+                  "patronymic": "S",
+                  "sex": "MALE"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "name": "Example University",
+  "faculties": [
+    {
+      "name": "Faculty of Science",
+      "departments": [
+        {
+          "name": "Department of Mathematics",
+          "groups": [
+            {
+              "name": "Group 1",
+              "students": [
+                {
+                  "name": "John",
+                  "surname": "Doe",
+                  "patronymic": "Smith",
+                  "sex": "MALE"
+                },
+                {
+                  "name": "Jane",
+                  "surname": "Doe",
+                  "patronymic": "Smith",
+                  "sex": "FEMALE"
+                }
+              ]
+            },
+            {
+              "name": "Group 2",
+              "students": [
+                {
+                  "name": "Alice",
+                  "surname": "Johnson",
+                  "patronymic": "Brown",
+                  "sex": "FEMALE"
+                },
+                {
+                  "name": "Bob",
+                  "surname": "Johnson",
+                  "patronymic": "Brown",
+                  "sex": "MALE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Department of Physics",
+          "groups": [
+            {
+              "name": "Group 3",
+              "students": [
+                {
+                  "name": "Charlie",
+                  "surname": "Williams",
+                  "patronymic": "Davis",
+                  "sex": "MALE"
+                },
+                {
+                  "name": "Eve",
+                  "surname": "Williams",
+                  "patronymic": "Davis",
+                  "sex": "FEMALE"
+                }
+              ]
+            },
+            {
+              "name": "Group 4",
+              "students": [
+                {
+                  "name": "Michael",
+                  "surname": "Taylor",
+                  "patronymic": "Miller",
+                  "sex": "MALE"
+                },
+                {
+                  "name": "Emily",
+                  "surname": "Taylor",
+                  "patronymic": "Miller",
+                  "sex": "FEMALE"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Faculty of Arts",
+      "departments": [
+        {
+          "name": "Department of Literature",
+          "groups": [
+            {
+              "name": "Group 5",
+              "students": [
+                {
+                  "name": "John",
+                  "surname": "Doe",
+                  "patronymic": "Smith",
+                  "sex": "MALE"
+                },
+                {
+                  "name": "Jane",
+                  "surname": "Doe",
+                  "patronymic": "Smith",
+                  "sex": "FEMALE"
+                }
+              ]
+            },
+            {
+              "name": "Group 6",
+              "students": [
+                {
+                  "name": "Alice",
+                  "surname": "Johnson",
+                  "patronymic": "Brown",
+                  "sex": "FEMALE"
+                },
+                {
+                  "name": "Bob",
+                  "surname": "Johnson",
+                  "patronymic": "Brown",
+                  "sex": "MALE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Department of History",
+          "groups": [
+            {
+              "name": "Group 7",
+              "students": [
+                {
+                  "name": "Charlie",
+                  "surname": "Williams",
+                  "patronymic": "Davis",
+                  "sex": "MALE"
+                },
+                {
+                  "name": "Eve",
+                  "surname": "Williams",
+                  "patronymic": "Davis",
+                  "sex": "FEMALE"
+                }
+              ]
+            },
+            {
+              "name": "Group 8",
+              "students": [
+                {
+                  "name": "Michael",
+                  "surname": "Taylor",
+                  "patronymic": "Miller",
+                  "sex": "MALE"
+                },
+                {
+                  "name": "Emily",
+                  "surname": "Taylor",
+                  "patronymic": "Miller",
+                  "sex": "FEMALE"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
